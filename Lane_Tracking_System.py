@@ -124,7 +124,7 @@ while True:
     
     lane_diff = lane_center - frame_center
 
-    threshold = 13
+    threshold = 16
 
     if  abs(lane_diff) < threshold:
         if turn_counter < turn_thresholder:

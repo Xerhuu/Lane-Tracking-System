@@ -4,7 +4,7 @@ Description
 
 This project implements a Lane Tracking System using OpenCV. The system detects and tracks lane markings on the road, guiding the vehicle to stay within the correct lane. It works by analyzing the road's edges, detecting lane lines, and determining whether the vehicle needs to turn left or right, or go straight.
 
-
+![Lane Tracking GIF](images/Lane-Tracking-System.gif)
 
 Features:
 - Lane detection using Hough Transform

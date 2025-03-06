@@ -11,7 +11,7 @@ This project implements a **Lane Tracking System** using OpenCV. The system dete
 ## 🚀 Features:
 - 🛣 **Lane detection** using Hough Transform  
 - 🚗 **Dynamic lane following** logic based on the vehicle's position  
-- 🔄 Ability to **handle sharp turns** and maintain lane stability  
+- 🔄 **Handles sharp turns** while maintaining lane stability 
 - 🎥 **Real-time video processing** for vehicle guidance
 
 ---
@@ -49,6 +49,6 @@ You can install the required libraries using pip:
 
 ## 🔧 Improvements: 
 
-There might be some inaccuracies in the calculations, but this project is open for further development and improvements. If you would like to contribute, feel free to submit issues or pull requests.
+Some inaccuracies may occur due to road conditions, but this project is open for further improvements. Contributions are welcome!
 
 ---
